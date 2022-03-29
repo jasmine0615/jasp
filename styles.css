@@ -156,3 +156,16 @@
   color: blueviolet;
   cursor: pointer;
 }
+#projects {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  height: 650px;
+  justify-content: top;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+#projects h1 {
+  margin: 50px;
+}
