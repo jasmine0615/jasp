@@ -169,3 +169,15 @@
 #projects h1 {
   margin: 50px;
 }
+a {
+  width: 150px;
+  display: flexbox;
+}
+.icons a:hover img {
+  opacity: 0.5;
+  transition: all 0.25s;
+  -webkit-transition: all 0.25s;
+}
+img {
+  border-radius: 35%;
+}
